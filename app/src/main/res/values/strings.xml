@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Cliente</string>
+    <string name="nav_header_subtitle">Leonardo Souza</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="modelo_fragment">Cliente Vip Demo</string>
+
+    <!-- Opções do Menu Lateral Drawe -->
+    <string name="fragmento_preto">Fragmento Preto</string>
+    <string name="fragmento_vermelho">Fragmento Vermelho</string>
+    <string name="fragmento_azul">Fragmento Azul</string>
+    <string name="fragmento_adicionar_cliente">Adicionar Cliente</string>
+    <string name="fragmento_adicionar_cliente_cards">Adicionar Cliente (Cards)</string>
+    <string name="fragmento_listar_clientes">Listar Clientes</string>
+    <string name="fragmento_listar_clientes_cards">Listar Clientes (Cards)</string>
+
+    <!--  Opções do Menu Principal  -->
+    <string name="action_settings">Sair</string>
+
+    <!-- Textos para o layout Adicionar novo Cliente   -->
+    <string name="novoCliente">Adicionar Novo Cliente</string>
+    <string name="txtPerfilContato">Perfil e Contato</string>
+    <string name="txtEndereco">Endereço</string>
+</resources>
